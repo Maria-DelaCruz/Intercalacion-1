@@ -1,0 +1,7 @@
+C:\Users\ferna\Desktop\Intercalacion\bin\Debug\Intercalacion.exe.config
+C:\Users\ferna\Desktop\Intercalacion\bin\Debug\Intercalacion.exe
+C:\Users\ferna\Desktop\Intercalacion\bin\Debug\Intercalacion.pdb
+C:\Users\ferna\Desktop\Intercalacion\obj\Debug\Intercalacion.csproj.AssemblyReference.cache
+C:\Users\ferna\Desktop\Intercalacion\obj\Debug\Intercalacion.csproj.CoreCompileInputs.cache
+C:\Users\ferna\Desktop\Intercalacion\obj\Debug\Intercalacion.exe
+C:\Users\ferna\Desktop\Intercalacion\obj\Debug\Intercalacion.pdb
