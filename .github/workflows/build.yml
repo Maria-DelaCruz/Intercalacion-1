@@ -43,5 +43,5 @@ jobs:
           shell: powershell
         run: |
           .\.sonar\scanner\dotnet-sonarscanner begin /k:"Maria-DelaCruz_Intercalacion-1" /o:"maria-delacruz" /d:sonar.token="${{ secrets.SONAR_TOKEN }}" /d:sonar.host.url="https://sonarcloud.io"
-          dotnet build Intercalacion.sln
+          dotnet build dotnet build ./Intercalacion.sln
           .\.sonar\scanner\dotnet-sonarscanner end /d:sonar.token="${{ secrets.SONAR_TOKEN }}"
